@@ -4,4 +4,4 @@
 
 @section('contenido')
 <p>Aqui va el contenido</p>
-@enddection
+@endsection
